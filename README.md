@@ -1,5 +1,5 @@
 
-Effective connectivity between the cerebellum and fronto-temporal regions correctly classify major depressive disorder
+
 
 The REST-meta-MDD data is available by application (http://rfmri.org/REST-meta-MDD). 
 DecNef data is also available by application (https://bicr-resource.atr.jp/srpbsopen/).
